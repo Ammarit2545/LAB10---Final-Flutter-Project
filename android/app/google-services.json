@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736959058948",
+    "project_id": "my-mul-app",
+    "storage_bucket": "my-mul-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736959058948:android:7a33bf14111b9a0d525151",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736959058948-n1phvvij4rchff15e60eo1u8tprhkob3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGYVwWMyj_rRPe8MW3I4F-tn5_rJfwOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736959058948-n1phvvij4rchff15e60eo1u8tprhkob3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
